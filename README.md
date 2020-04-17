@@ -9,7 +9,7 @@ A simple tryouts with [Svelte](https://svelte.dev/). This app does nothing more 
 - Go to http://localhost:5000
 
 ## Screenshot
-<img alt='snap' src='https://github.com/rahulhaque/catch-me-svelte/raw/master/public/screenshot/snap_1.png' width='300'/>
+<img alt='snap' src='https://github.com/rahulhaque/catch-me-svelte/blob/master/screenshots/snap_1.png' width='300'/>
 
 ## Info
 Nothing. Just have fun and keep learning. 😄
